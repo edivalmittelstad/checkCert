@@ -1,4 +1,4 @@
-## Script em python para checar tertificados SSL baseado em lista de sites
+## Script em python para checar certificados SSL baseado em lista de sites
 
 
 ### Execução
